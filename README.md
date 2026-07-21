@@ -16,7 +16,15 @@ Each section is written by a different team member.
 <!-- [Team Member 1 Name] will write this section -->
 
 ## GitHb
-<!-- [Team Member 2 Name] will write this section -->
+**John**
+**GitHub** is a cloud-based platform for hosting and collaborating on code projects.
+
+## Why Students Should Use It
+- It works on Windows, Mac, and Linux.
+- It makes collaboration easy for group projects.
+- It tracks every change in your code with version control.
+- It helps you build a portfolio to showcase your work.
+- It integrates with tools like VS Code and CI/CD pipelines.
 
 ## React
 <!-- [Team Member 3 Name] will write this section -->

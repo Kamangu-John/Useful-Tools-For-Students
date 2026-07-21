@@ -17,6 +17,7 @@ Each section is written by a different team member.
 
 ## GitHb
 **John**
+
 **GitHub** is a cloud-based platform for hosting and collaborating on code projects.
 
 ## Why Students Should Use It
